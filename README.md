@@ -2,7 +2,7 @@
 
 
 # USED🛠️
-
+***compositor:hyprland***
 
 
 
