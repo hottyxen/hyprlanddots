@@ -2,7 +2,7 @@
 
 
 # USED🛠️
-**compositor:hyprland(https://github.com/hyprwm/Hyprland)**
+**compositor:[hyprland](https://github.com/hyprwm/Hyprland)**
 
 **terminal:kitty**
 # INSTALATION📮
