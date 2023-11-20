@@ -3,4 +3,4 @@
 
 here is the concept
 
-![[https://ibb.co/r2r2s2B]]
+![](https://ibb.co/r2r2s2B)
