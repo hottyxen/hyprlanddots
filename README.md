@@ -10,6 +10,6 @@
 
 **launcher:[rofi]()**
 
-**rofitheme:[here] (https://github.com/dennisschneider-ml/rofi-everforest)**
+**rofitheme:[here](https://github.com/dennisschneider-ml/rofi-everforest)**
 # INSTALATION📮
 
