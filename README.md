@@ -8,8 +8,8 @@
 
 **wallpaper:[here](https://wallhaven.cc/w/76evl9)**
 
-**launcher:[rofi](https://wiki.archlinux.org/title/Rofi)**
+**launcher:[]()**
 
-**rofi theme:[here](https://github.com/dennisschneider-ml/rofi-everforest)**
+** theme:[here]()**
 # INSTALATION📮
 
